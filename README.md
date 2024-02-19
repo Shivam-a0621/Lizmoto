@@ -16,7 +16,7 @@ from where it have  gathered the informations.
 ```
 
 
-***Dependencies and Libraries***
+**Dependencies and Libraries**
 ```
 Python
 nltk re
@@ -25,4 +25,25 @@ Also tried selenium
 DuckduckGo web search tool
 Langchain
 Faiss for vector strore (other can also be integrated)
-OpenAi for embeddings can 
+OpenAi 
+```
+
+# Sample images 
+# LINKS
+![LINKS ](https://github.com/Shivam-a0621/Lizmoto/blob/main/images/Screenshot%202024-02-19%20200756.png)https://github.com/Shivam-a0621/Lizmoto/blob/main/images/Screenshot%202024-02-19%20200756.png)
+
+
+## Response
+![LINKS ](https://github.com/Shivam-a0621/Lizmoto/blob/main/images/Screenshot%202024-02-19%20205351.png)https://github.com/Shivam-a0621/Lizmoto/blob/main/images/Screenshot%202024-02-19%20205351.png)
+
+# Raw data
+![LINKS ](https://github.com/Shivam-a0621/Lizmoto/blob/main/images/Screenshot%202024-02-19%20200908.png)https://github.com/Shivam-a0621/Lizmoto/blob/main/images/Screenshot%202024-02-19%20200908.png)
+
+
+
+
+
+
+
+
+
